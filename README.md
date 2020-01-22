@@ -33,3 +33,4 @@ signatureDefs {
 #### TODOs:
 
 * add all available spleeter models
+* add a working example of inference
