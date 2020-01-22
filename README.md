@@ -7,6 +7,7 @@ you should look at the SavedModel example
 
 ## Run a TensorFlow SavedModel in Node.js directly without conversion
 It is now possible to run a tf SavedModel in nodejs without conversion, see related blog post [here](https://blog.tensorflow.org/2020/01/run-tensorflow-savedmodel-in-nodejs-directly-without-conversion.html).
+
 See [inference_saved_model.js](https://github.com/shoegazerstella/spleeter_saved_models/blob/master/inference_saved_model.js) for a working example of model load.
 
 ```
