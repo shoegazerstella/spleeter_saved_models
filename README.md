@@ -1,5 +1,5 @@
 # Spleeter savedModels
-savedModels for [spleeter](https://github.com/deezer/spleeter) (tf and tfjs)
+savedModels for [Spleeter](https://github.com/deezer/spleeter) (tf and tfjs)
 
 ## Convert an existing TensorFlow model to the TensorFlow.js web format
 If you want to convert the savedModel to tfjs anyways, you can follow the official guide [here](https://www.tensorflow.org/js/tutorials/conversion/import_saved_model)
